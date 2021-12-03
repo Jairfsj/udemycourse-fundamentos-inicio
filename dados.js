@@ -1,7 +1,9 @@
-var quantity
+var quantity = 10;
+var price = 6.4;
+var tax = 1.5;
+var finalPrice = price + tax;
 
 console.log("Caneta");
-console.log(10);
-console.log(6.4);
-console.log(1.5);
-console.log(7.9);
+console.log(quantity);
+console.log(price);
+console.log(finalPrice);
